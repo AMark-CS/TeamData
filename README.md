@@ -1,0 +1,1 @@
+To test the generality of the model on women’s matches and other sports, we manually collected the data of three matches in the first round of the 2023 Wimbledon women’s singles and three matches in the round of 16 of the 2015 WWTS men’s singles
